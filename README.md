@@ -10,3 +10,5 @@ Program use standard socket module.
 
 Due to delays when sending messages, it is not recommended to use on national championnschip etc.
 The delay when using the internal network is negligible, but for example using own vpn server on Qnap it can reach up to two seconds. 
+
+UDP PORT: 10006 - default for ChronoTrack device
